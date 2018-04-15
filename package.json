@@ -1,9 +1,13 @@
 {
   "name": "itty-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An itty-bitty DOM traversal library.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reed-jones/itty-js.git"
+  },
   "author": "Reed Jones <reedjones@reedjones.com>",
   "license": "ISC",
   "scripts": {
