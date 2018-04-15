@@ -1,0 +1,16 @@
+{
+  "name": "itty-js",
+  "version": "1.0.0",
+  "description": "An itty-bitty DOM traversal library.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Reed Jones <reedjones@reedjones.com>",
+  "license": "ISC",
+  "scripts": {
+    "prepublish": "npm run build",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^2.8.1"
+  }
+}
